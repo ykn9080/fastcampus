@@ -58,7 +58,7 @@ public class SpringDiTest {
 //        car.setEngine(engine);
 //        car.setDoors(new Door[]{doors,doors,doors,doors});
         System.out.println("car = " + car);
-        //System.out.println("engine = " + engine);
+        System.out.println("engine = " + engine);
     }
 
 }
